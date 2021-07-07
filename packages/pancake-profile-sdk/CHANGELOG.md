@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-profile-sdk/compare/@svcongnghe/profile-sdk@0.2.0...@svcongnghe/profile-sdk@0.2.1) (2021-07-07)
+
+**Note:** Version bump only for package @svcongnghe/profile-sdk
+
+
+
+
+
 # 0.2.0 (2021-07-07)
 
 
