@@ -7,7 +7,10 @@
   "command": {
     "version": {
       "conventionalCommits": true,
-      "message": "chore(release): Publish"
+      "message": "chore(release): Publish",
+      "publishConfig": {
+        "access": "public"
+      }
     }
   }
 }
